@@ -9,6 +9,8 @@
     background: linear-gradient(123.75deg, #F5821F 1.87%, #FF5C00 120.46%);
     font-size: 20px;
     text-align: center;
+    text-align: start;
+    color : #ffffff;
 }
 
 .chatIcon{
@@ -16,7 +18,7 @@
     right: 30px;
     bottom: 0;
     font-size: 50px;
-    color: rgb(49, 48, 48);
+    color: rgb(8, 8, 8);
     cursor: pointer;
 }
 .chatbox{
